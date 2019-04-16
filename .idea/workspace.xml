@@ -109,6 +109,9 @@
       <find>cout</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -129,11 +132,13 @@
     <option name="width" value="1630" />
     <option name="height" value="1715" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,17 +195,18 @@
       <workItem from="1550132659002" duration="24733000" />
       <workItem from="1550157855902" duration="111000" />
       <workItem from="1555401185385" duration="9000" />
+      <workItem from="1555401405481" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33364000" />
+    <option name="totallyTimeSpent" value="33469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10364372" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10526316" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
