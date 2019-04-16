@@ -50,11 +50,6 @@ To start, just run the executable or type:
 ./main
 ```
 
-## Assignment3
-
-Go ahead and take a look at `Assignment3.txt` for my answers to that part of the assessment. Most of the Threading work
-I have done has been on Java, but it was fun getting to research and learn more about threading in C++!
-
 ## Authors
 
 * **Gavin Bains** - [Github](https://github.com/gbains8172) - [LinkedIn](https://linkedin.com/in/bainsgavin)
@@ -62,6 +57,6 @@ I have done has been on Java, but it was fun getting to research and learn more 
 
 ## Acknowledgments
 
-* Thank you so much for giving me the opportunity to take this assessment!
+* Thank you so much for giving me this opportunity
 
 
