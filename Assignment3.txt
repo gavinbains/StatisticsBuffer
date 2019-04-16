@@ -1,5 +1,0 @@
-1. Usually when you build a custom constructor and destructor you also want to write an overloaded assignment operator.
-2. Doesn't look like the threads are blocked while updating, so you'd be having some issues getting the correct values since the threads would edit at the same time and possibly get into threadlock.
-3. Critical sections should be locked and unlocked when dealing with shared data.
-4. Would be useful to catch thread exceptions
-5. In this case, looks like cout could be a shared resource that needs to be protected.
